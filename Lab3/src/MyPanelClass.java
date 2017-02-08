@@ -34,9 +34,7 @@ public class MyPanelClass extends JPanel {
                         g.drawRect(x1+8, y1+8, width-16, height-16);
                         
                       
-                       
-                       
-                        
+                     
                         
                         
 			}
