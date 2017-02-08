@@ -8,4 +8,5 @@ public class Lab3Exercises {
 		myFrame.setSize(200, 200);
 		myFrame.setVisible(true);
 	}
+	
 }
